@@ -1,0 +1,21 @@
+{
+  "name": "aesthetic-clock",
+  "version": "1.0.0",
+  "description": "An aesthetic clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Grant",
+    "Adiele",
+    "Aesthetic",
+    "Clock",
+    "Watch"
+  ],
+  "author": "Grant Adiele",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
